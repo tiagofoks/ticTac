@@ -318,7 +318,7 @@ demo = {
       data: {
         labels: ["Carro", "Taxi", "Bike Propria", "Onibus", "Metro", "CPTM", "Bike Shared"],
         datasets: [{
-          label: "Em falta",
+          label: "Qtd Pessoas",
           borderColor: "#f96332",
           pointBorderColor: "#FFF",
           pointBackgroundColor: "#f96332",
@@ -352,7 +352,7 @@ demo = {
       data: {
         labels: ["Bike", "Carro", "Caminhada", "CPTM", "Metro", "Onibus"],
         datasets: [{
-          label: "Qtd. Denúncias",
+          label: "Qtd. Pessoas",
           borderColor: "#18ce0f",
           pointBorderColor: "#FFF",
           pointBackgroundColor: "#18ce0f",
@@ -380,7 +380,7 @@ demo = {
       data: {
         labels: ["Zona-Oeste", "Zona-Norte", "Zona-Sul", "Zona-Leste"],
         datasets: [{
-          label: "Qtd. Remédios",
+          label: "Qtd. Pessoas",
           backgroundColor: gradientFill,
           borderColor: "#2CA8FF",
           pointBorderColor: "#FFF",
