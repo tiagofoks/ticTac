@@ -1,0 +1,28 @@
+{
+  "name": "tictac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagofoks/ticTac.git"
+  },
+  "author": "Roberson Miguel, Thiago Toledo, Tiago Selpuveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagofoks/ticTac/issues"
+  },
+  "homepage": "https://github.com/tiagofoks/ticTac#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
